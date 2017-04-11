@@ -1,1 +1,1 @@
-My dot files.gitconfig
+My dot files

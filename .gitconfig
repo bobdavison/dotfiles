@@ -1,0 +1,9 @@
+[user]
+	email = robert.davison@barthhaas.co.uk
+	name = Bob Davison
+[push]
+	default = simple
+[alias]
+	co = checkout
+	st = status
+    ci = commit
